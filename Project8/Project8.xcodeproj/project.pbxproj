@@ -12,6 +12,8 @@
 		0354AAD41C90C1E300CD2568 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0354AAD21C90C1E300CD2568 /* Main.storyboard */; };
 		0354AAD61C90C1E300CD2568 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0354AAD51C90C1E300CD2568 /* Assets.xcassets */; };
 		0354AAD91C90C1E300CD2568 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0354AAD71C90C1E300CD2568 /* LaunchScreen.storyboard */; };
+		0354AAE21C94252000CD2568 /* level1.txt in Resources */ = {isa = PBXBuildFile; fileRef = 0354AAE01C94252000CD2568 /* level1.txt */; };
+		0354AAE31C94252000CD2568 /* level2.txt in Resources */ = {isa = PBXBuildFile; fileRef = 0354AAE11C94252000CD2568 /* level2.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		0354AAD51C90C1E300CD2568 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0354AAD81C90C1E300CD2568 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0354AADA1C90C1E300CD2568 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0354AAE01C94252000CD2568 /* level1.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = level1.txt; sourceTree = "<group>"; };
+		0354AAE11C94252000CD2568 /* level2.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = level2.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 		0354AACD1C90C1E300CD2568 /* Project8 */ = {
 			isa = PBXGroup;
 			children = (
+				0354AAE01C94252000CD2568 /* level1.txt */,
+				0354AAE11C94252000CD2568 /* level2.txt */,
 				0354AACE1C90C1E300CD2568 /* AppDelegate.swift */,
 				0354AAD01C90C1E300CD2568 /* ViewController.swift */,
 				0354AAD21C90C1E300CD2568 /* Main.storyboard */,
@@ -122,7 +128,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0354AAE31C94252000CD2568 /* level2.txt in Resources */,
 				0354AAD91C90C1E300CD2568 /* LaunchScreen.storyboard in Resources */,
+				0354AAE21C94252000CD2568 /* level1.txt in Resources */,
 				0354AAD61C90C1E300CD2568 /* Assets.xcassets in Resources */,
 				0354AAD41C90C1E300CD2568 /* Main.storyboard in Resources */,
 			);
