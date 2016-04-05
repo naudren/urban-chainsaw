@@ -7,6 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		032060371C9EB70800442D14 /* BouncerData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 032060361C9EB70800442D14 /* BouncerData.swift */; };
+		032060391C9EC4D100442D14 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 032060381C9EC4D100442D14 /* SwiftyJSON.swift */; };
+		0320603B1C9EC54900442D14 /* Level1.txt in Resources */ = {isa = PBXBuildFile; fileRef = 0320603A1C9EC54900442D14 /* Level1.txt */; };
+		0320603E1C9F108800442D14 /* SlotData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0320603D1C9F108800442D14 /* SlotData.swift */; };
+		03A56A301C9F200100972EA1 /* Level2.txt in Resources */ = {isa = PBXBuildFile; fileRef = 03A56A2F1C9F200100972EA1 /* Level2.txt */; };
+		03A56A321C9F208900972EA1 /* LevelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03A56A311C9F208900972EA1 /* LevelData.swift */; };
+		03A56A3C1C9F4C3900972EA1 /* Level3.txt in Resources */ = {isa = PBXBuildFile; fileRef = 03A56A391C9F4C3900972EA1 /* Level3.txt */; };
+		03A56A3D1C9F4C3900972EA1 /* Level4.txt in Resources */ = {isa = PBXBuildFile; fileRef = 03A56A3A1C9F4C3900972EA1 /* Level4.txt */; };
+		03A56A3E1C9F4C3900972EA1 /* Level5.txt in Resources */ = {isa = PBXBuildFile; fileRef = 03A56A3B1C9F4C3900972EA1 /* Level5.txt */; };
 		03A9DDBC1C9B54DD00F925FD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03A9DDBB1C9B54DD00F925FD /* AppDelegate.swift */; };
 		03A9DDBE1C9B54DD00F925FD /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 03A9DDBD1C9B54DD00F925FD /* GameScene.sks */; };
 		03A9DDC01C9B54DD00F925FD /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03A9DDBF1C9B54DD00F925FD /* GameScene.swift */; };
@@ -32,7 +41,6 @@
 		03A9DDFD1C9B573600F925FD /* ballYellow@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03A9DDE11C9B573600F925FD /* ballYellow@2x.png */; };
 		03A9DDFE1C9B573600F925FD /* bouncer.png in Resources */ = {isa = PBXBuildFile; fileRef = 03A9DDE21C9B573600F925FD /* bouncer.png */; };
 		03A9DDFF1C9B573600F925FD /* bouncer@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03A9DDE31C9B573600F925FD /* bouncer@2x.png */; };
-		03A9DE001C9B573600F925FD /* FireParticles.sks in Resources */ = {isa = PBXBuildFile; fileRef = 03A9DDE41C9B573600F925FD /* FireParticles.sks */; };
 		03A9DE011C9B573600F925FD /* slotBaseBad.png in Resources */ = {isa = PBXBuildFile; fileRef = 03A9DDE51C9B573600F925FD /* slotBaseBad.png */; };
 		03A9DE021C9B573600F925FD /* slotBaseBad@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03A9DDE61C9B573600F925FD /* slotBaseBad@2x.png */; };
 		03A9DE031C9B573600F925FD /* slotBaseGood.png in Resources */ = {isa = PBXBuildFile; fileRef = 03A9DDE71C9B573600F925FD /* slotBaseGood.png */; };
@@ -47,6 +55,15 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		032060361C9EB70800442D14 /* BouncerData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BouncerData.swift; sourceTree = "<group>"; };
+		032060381C9EC4D100442D14 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
+		0320603A1C9EC54900442D14 /* Level1.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Level1.txt; sourceTree = "<group>"; };
+		0320603D1C9F108800442D14 /* SlotData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SlotData.swift; sourceTree = "<group>"; };
+		03A56A2F1C9F200100972EA1 /* Level2.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Level2.txt; sourceTree = "<group>"; };
+		03A56A311C9F208900972EA1 /* LevelData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LevelData.swift; sourceTree = "<group>"; };
+		03A56A391C9F4C3900972EA1 /* Level3.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Level3.txt; sourceTree = "<group>"; };
+		03A56A3A1C9F4C3900972EA1 /* Level4.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Level4.txt; sourceTree = "<group>"; };
+		03A56A3B1C9F4C3900972EA1 /* Level5.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Level5.txt; sourceTree = "<group>"; };
 		03A9DDB81C9B54DD00F925FD /* Project11.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Project11.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		03A9DDBB1C9B54DD00F925FD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		03A9DDBD1C9B54DD00F925FD /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
@@ -74,7 +91,6 @@
 		03A9DDE11C9B573600F925FD /* ballYellow@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ballYellow@2x.png"; sourceTree = "<group>"; };
 		03A9DDE21C9B573600F925FD /* bouncer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bouncer.png; sourceTree = "<group>"; };
 		03A9DDE31C9B573600F925FD /* bouncer@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bouncer@2x.png"; sourceTree = "<group>"; };
-		03A9DDE41C9B573600F925FD /* FireParticles.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = FireParticles.sks; sourceTree = "<group>"; };
 		03A9DDE51C9B573600F925FD /* slotBaseBad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = slotBaseBad.png; sourceTree = "<group>"; };
 		03A9DDE61C9B573600F925FD /* slotBaseBad@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "slotBaseBad@2x.png"; sourceTree = "<group>"; };
 		03A9DDE71C9B573600F925FD /* slotBaseGood.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = slotBaseGood.png; sourceTree = "<group>"; };
@@ -99,6 +115,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0320603C1C9EC56300442D14 /* Levels */ = {
+			isa = PBXGroup;
+			children = (
+				0320603A1C9EC54900442D14 /* Level1.txt */,
+				03A56A2F1C9F200100972EA1 /* Level2.txt */,
+				03A56A391C9F4C3900972EA1 /* Level3.txt */,
+				03A56A3A1C9F4C3900972EA1 /* Level4.txt */,
+				03A56A3B1C9F4C3900972EA1 /* Level5.txt */,
+			);
+			name = Levels;
+			sourceTree = "<group>";
+		};
 		03A9DDAF1C9B54DD00F925FD = {
 			isa = PBXGroup;
 			children = (
@@ -118,6 +146,7 @@
 		03A9DDBA1C9B54DD00F925FD /* Project11 */ = {
 			isa = PBXGroup;
 			children = (
+				032060381C9EC4D100442D14 /* SwiftyJSON.swift */,
 				03A9DE0A1C9B6AB800F925FD /* Helper.swift */,
 				03A9DDD11C9B573600F925FD /* Content */,
 				03A9DDBB1C9B54DD00F925FD /* AppDelegate.swift */,
@@ -128,6 +157,10 @@
 				03A9DDC61C9B54DD00F925FD /* Assets.xcassets */,
 				03A9DDC81C9B54DD00F925FD /* LaunchScreen.storyboard */,
 				03A9DDCB1C9B54DD00F925FD /* Info.plist */,
+				03A56A311C9F208900972EA1 /* LevelData.swift */,
+				032060361C9EB70800442D14 /* BouncerData.swift */,
+				0320603D1C9F108800442D14 /* SlotData.swift */,
+				0320603C1C9EC56300442D14 /* Levels */,
 			);
 			path = Project11;
 			sourceTree = "<group>";
@@ -153,7 +186,6 @@
 				03A9DDE11C9B573600F925FD /* ballYellow@2x.png */,
 				03A9DDE21C9B573600F925FD /* bouncer.png */,
 				03A9DDE31C9B573600F925FD /* bouncer@2x.png */,
-				03A9DDE41C9B573600F925FD /* FireParticles.sks */,
 				03A9DDE51C9B573600F925FD /* slotBaseBad.png */,
 				03A9DDE61C9B573600F925FD /* slotBaseBad@2x.png */,
 				03A9DDE71C9B573600F925FD /* slotBaseGood.png */,
@@ -230,6 +262,8 @@
 				03A9DDF91C9B573600F925FD /* ballPurple@2x.png in Resources */,
 				03A9DE061C9B573600F925FD /* slotGlowBad@2x.png in Resources */,
 				03A9DDF21C9B573600F925FD /* ballCyan.png in Resources */,
+				03A56A3C1C9F4C3900972EA1 /* Level3.txt in Resources */,
+				03A56A3E1C9F4C3900972EA1 /* Level5.txt in Resources */,
 				03A9DE0F1C9B6E6500F925FD /* SparkParticle.sks in Resources */,
 				03A9DE031C9B573600F925FD /* slotBaseGood.png in Resources */,
 				03A9DDBE1C9B54DD00F925FD /* GameScene.sks in Resources */,
@@ -237,13 +271,15 @@
 				03A9DE071C9B573600F925FD /* slotGlowGood.png in Resources */,
 				03A9DE021C9B573600F925FD /* slotBaseBad@2x.png in Resources */,
 				03A9DDFD1C9B573600F925FD /* ballYellow@2x.png in Resources */,
+				0320603B1C9EC54900442D14 /* Level1.txt in Resources */,
 				03A9DE011C9B573600F925FD /* slotBaseBad.png in Resources */,
 				03A9DDEE1C9B573600F925FD /* background.jpg in Resources */,
 				03A9DE041C9B573600F925FD /* slotBaseGood@2x.png in Resources */,
+				03A56A3D1C9F4C3900972EA1 /* Level4.txt in Resources */,
 				03A9DDFF1C9B573600F925FD /* bouncer@2x.png in Resources */,
 				03A9DDFA1C9B573600F925FD /* ballRed.png in Resources */,
-				03A9DE001C9B573600F925FD /* FireParticles.sks in Resources */,
 				03A9DDFB1C9B573600F925FD /* ballRed@2x.png in Resources */,
+				03A56A301C9F200100972EA1 /* Level2.txt in Resources */,
 				03A9DDCA1C9B54DD00F925FD /* LaunchScreen.storyboard in Resources */,
 				03A9DE051C9B573600F925FD /* slotGlowBad.png in Resources */,
 				03A9DDC71C9B54DD00F925FD /* Assets.xcassets in Resources */,
@@ -271,6 +307,10 @@
 			files = (
 				03A9DDC01C9B54DD00F925FD /* GameScene.swift in Sources */,
 				03A9DDC21C9B54DD00F925FD /* GameViewController.swift in Sources */,
+				032060371C9EB70800442D14 /* BouncerData.swift in Sources */,
+				0320603E1C9F108800442D14 /* SlotData.swift in Sources */,
+				03A56A321C9F208900972EA1 /* LevelData.swift in Sources */,
+				032060391C9EC4D100442D14 /* SwiftyJSON.swift in Sources */,
 				03A9DDBC1C9B54DD00F925FD /* AppDelegate.swift in Sources */,
 				03A9DE0B1C9B6AB800F925FD /* Helper.swift in Sources */,
 			);
@@ -422,6 +462,7 @@
 				03A9DDD01C9B54DD00F925FD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
